@@ -1,0 +1,139 @@
+{"id":"ipc_299","title":"IPC Section 299 - Culpable Homicide","text":"Culpable homicide: causing death by doing an act with the intention of causing death or with knowledge that the act is likely to cause death."}
+{"id":"ipc_300","title":"IPC Section 300 - Murder","text":"Murder: culpable homicide with certain specified exceptions; punishable with death or life imprisonment in many cases."}
+{"id":"ipc_302","title":"IPC Section 302 - Punishment for Murder","text":"Punishment: Death or life imprisonment for murder; court discretion for other punishments and fines."}
+{"id":"ipc_304A","title":"IPC Section 304A - Causing Death by Negligence","text":"Punishment for causing death by rash or negligent act not amounting to culpable homicide; simple imprisonment or fine."}
+{"id":"ipc_307","title":"IPC Section 307 - Attempt to Murder","text":"Attempt to commit murder; punishments vary and can be extended depending on injury caused and intent."}
+{"id":"ipc_420","title":"IPC Section 420 - Cheating and Dishonestly Inducing Delivery of Property","text":"Cheating and dishonestly inducing delivery of property — punishment includes imprisonment and fine."}
+{"id":"ipc_375","title":"IPC Section 375 - Rape (Definition)","text":"Definition of rape (outline of acts that constitute rape); legal elements include absence of consent, certain relationships, and circumstances."}
+{"id":"ipc_376","title":"IPC Section 376 - Punishment for Rape","text":"Punishment for rape; degrees of severity and enhanced penalties for aggravated forms."}
+{"id":"ipc_498A","title":"IPC Section 498A - Cruelty to Woman by Husband or Relatives","text":"Cruelty includes domestic violence, mental or physical cruelty related to dowry demand; criminal offense."}
+{"id":"ipc_499","title":"IPC Section 499 - Defamation (Definition)","text":"Defamation: making or publishing false statements harming reputation; exceptions for truth or public good."}
+{"id":"ipc_500","title":"IPC Section 500 - Punishment for Defamation","text":"Punishment: simple imprisonment, fine, or both for criminal defamation."}
+{"id":"ipc_323","title":"IPC Section 323 - Voluntarily Causing Hurt","text":"Voluntarily causing hurt; punishable with imprisonment and/or fine."}
+{"id":"ipc_324","title":"IPC Section 324 - Voluntarily Causing Hurt by Dangerous Weapons","text":"Use of dangerous weapons or means resulting in more severe punishment than Section 323."}
+{"id":"ipc_325","title":"IPC Section 325 - Grievous Hurt","text":"Punishment for causing grievous hurt; more severe penalties than simple hurt."}
+{"id":"ipc_376D","title":"IPC Section 376D - Gang Rape","text":"Punishment for gang rape; stringent punishments including long imprisonment terms."}
+{"id":"crpc_154","title":"CrPC Section 154 - Information in Cognizable Cases (FIR)","text":"Police must record information relating to cognizable offences and prepare an FIR; duty to register and investigate."}
+{"id":"crpc_156","title":"CrPC Section 156 - Police Investigation without Magistrate Order","text":"Police powers to investigate cognizable offenses without prior magistrate order."}
+{"id":"crpc_173","title":"CrPC Section 173 - Report of Police Officer on Completion of Investigation","text":"Police must submit investigation report (charge-sheet or closure report) to magistrate after investigation."}
+{"id":"crpc_190","title":"CrPC Section 190 - Magistrate's Power to Take Cognizance","text":"Magistrate may take cognizance of offenses upon police report, information or complaint."}
+{"id":"crpc_200","title":"CrPC Section 200 - Examination of Complainant by Magistrate","text":"Magistrate may examine complainant on oath when cognizance is taken on police report or complaint."}
+{"id":"crpc_167","title":"CrPC Section 167 - Procedure When Investigation Cannot be Completed in 24 Hours","text":"Police custody and remand process when investigation requires detention beyond 24 hours."}
+{"id":"const_article14","title":"Constitution Article 14 - Equality Before Law","text":"State shall not deny any person equality before the law and equal protection of laws within Indian territory."}
+{"id":"const_article19","title":"Constitution Article 19 - Freedom of Speech and Expression","text":"Protection of certain rights regarding freedom of speech, assembly, association, movement, residence and profession."}
+{"id":"const_article21","title":"Constitution Article 21 - Right to Life and Personal Liberty","text":"No person shall be deprived of life or personal liberty except according to procedure established by law."}
+{"id":"const_article32","title":"Constitution Article 32 - Right to Constitutional Remedies","text":"Right to move the Supreme Court for enforcement of fundamental rights by appropriate proceedings."}
+{"id":"evidence_act","title":"Indian Evidence Act - Overview","text":"The Indian Evidence Act, 1872 governs admissibility, relevancy and proof of evidence in courts of India."}
+{"id":"motor_vehicles_act","title":"Motor Vehicles Act 1988 - Overview","text":"Regulates motor vehicles, liability, compensation, insurance and Motor Accident Claims Tribunals (MACT)."}
+{"id":"consumer_protection","title":"Consumer Protection Act 2019 - Overview","text":"Provides consumer rights, redressal mechanisms and remedies for deficiency in services, including medical negligence."}
+{"id":"hindu_adoption","title":"Hindu Adoption and Maintenance Act, 1956 - Overview","text":"Law governing adoption and maintenance for Hindus, including rights and legal consequences of adoption."}
+{"id":"dowry_prohibition","title":"Dowry Prohibition Act, 1961 - Overview","text":"Prohibits giving or taking dowry; provides penalties for violation and mechanisms to address dowry-related offences."}
+{"id":"domestic_violence","title":"Protection of Women from Domestic Violence Act, 2005 - Overview","text":"Civil remedies and protection orders for women subject to domestic violence; protection officers and magistrate powers."}
+{"id":"pocso","title":"POCSO Act, 2012 - Protection of Children from Sexual Offences","text":"Special procedures, child-sensitive investigation, and stringent punishments for sexual offences against children."}
+{"id":"juvenile_justice","title":"The Juvenile Justice Act, 2015 - Overview","text":"Care, protection and rehabilitation of children in conflict with law and those in need of care and protection."}
+{"id":"dowry_section498a","title":"IPC/Related - Practical Note on 498A","text":"498A deals with cruelty to married woman by husband/relatives; legal proceedings and safeguards exist to prevent misuse."}
+{"id":"rtiact","title":"Right to Information Act, 2005 - Overview","text":"Provides citizens access to information under public authorities and the process to file RTI applications."}
+{"id":"it_act","title":"Information Technology Act, 2000 - Overview","text":"Governs electronic commerce, cyber offences, data protection aspects and intermediaries' liabilities."}
+{"id":"prevention_corruption","title":"Prevention of Corruption Act, 1988 - Overview","text":"Offences by public servants, bribery, and provisions to combat corruption in government service."}
+{"id":"family_law_marriage","title":"Hindu Marriage Act, 1955 - Overview","text":"Governs marriage, divorce, matrimonial remedies for Hindus; includes grounds for divorce and maintenance."}
+{"id":"succession","title":"Indian Succession Act - Overview","text":"Rules for intestate and testamentary succession for different communities and property distribution."}
+{"id":"property_transfer","title":"Transfer of Property Act, 1882 - Overview","text":"Governs transfer of property by act of parties including sale, mortgage, lease and gift."}
+{"id":"landlord_tenant","title":"Rent Control/Local Laws - Practical Note","text":"State-level rent control statutes govern landlord-tenant relations; rules vary across states."}
+{"id":"nda","title":"National Disaster Management Act - Overview","text":"Legal framework for disaster management, compensation and relief mechanisms in India."}
+{"id":"labor_laws","title":"Key Labor Laws - Overview","text":"Industrial Disputes Act, Factories Act, Payment of Wages, and other labor protections for workers."}
+{"id":"election_laws","title":"Representation of the People Act - Overview","text":"Rules relating to elections, disqualification of members, electoral offences and dispute resolution."}
+{"id":"criminal_procedure_note","title":"Practical Note: Filing Complaints & FIRs","text":"For cognizable offences, file FIR at police station or file complaint before magistrate; retain copy of FIR for records."}
+{"id":"motor_accident_claim","title":"Practical Note: Motor Accident Claims","text":"Claim compensation from insurer or owner/government department via Motor Accident Claims Tribunal (MACT) or civil court."}
+{"id":"consumer_medical_negligence","title":"Medical Negligence - Practical Remedies","text":"Patients may seek remedy via consumer courts, civil suits for damages, and professional disciplinary bodies; criminal prosecution possible in grave negligence."}
+{"id":"citizenship","title":"Citizenship Act, 1955 - Birth, Descent, Registration","text":"Rules for acquiring citizenship by birth, descent, registration and naturalization; amendments may affect date-based rules."}
+{"id":"adoption_children_rights","title":"Children's Rights & Adoption - Practical Note","text":"Adopted child acquires rights similar to biological child under applicable adoption laws; juvenile laws protect children's welfare."}
+{"id":"summary_how_to_claim","title":"How To Claim Compensation (Practical Steps)","text":"Collect evidence (FIR/First information, medical reports, photos), send notice to insurer/owner, file claim petition at tribunal/court."}
+{"id":"ipc_375","title":"IPC Section 375 - Rape","text":"Defines rape, circumstances that constitute rape, and exceptions. Protects women from sexual assault."}
+{"id":"ipc_376","title":"IPC Section 376 - Punishment for Rape","text":"Punishment ranges from 7 years to life imprisonment depending on the severity and circumstances."}
+{"id":"ipc_377","title":"IPC Section 377 - Unnatural Offences","text":"Criminalizes sexual acts 'against the order of nature'; partially decriminalized by Supreme Court in 2018 for consenting adults."}
+{"id":"ipc_354","title":"IPC Section 354 - Assault or Criminal Force on Woman","text":"Punishment for assault or criminal force to woman with intent to outrage her modesty."}
+{"id":"ipc_498A","title":"IPC Section 498A - Cruelty by Husband or Relatives","text":"Addresses cruelty and harassment of a woman by husband or his relatives; includes dowry-related harassment."}
+{"id":"ipc_509","title":"IPC Section 509 - Insult to Modesty of Woman","text":"Punishment for word, gesture, or act intended to insult the modesty of a woman."}
+{"id":"ipc_120B","title":"IPC Section 120B - Criminal Conspiracy","text":"Punishment for involvement in criminal conspiracy, ranging from imprisonment to life sentence."}
+{"id":"ipc_124A","title":"IPC Section 124A - Sedition","text":"Punishment for sedition against the government; debated in modern times for free speech concerns."}
+{"id":"ipc_420","title":"IPC Section 420 - Cheating and Dishonestly Inducing Delivery of Property","text":"Covers acts of cheating and fraud with intent to gain property."}
+{"id":"ipc_406","title":"IPC Section 406 - Criminal Breach of Trust","text":"Punishment for misappropriation of property entrusted to someone."}
+{"id":"ipc_409","title":"IPC Section 409 - Criminal Breach of Trust by Public Servant","text":"Specific punishment for public servants or bankers involved in breach of trust."}
+{"id":"ipc_304B","title":"IPC Section 304B - Dowry Death","text":"Defines dowry death; prescribes punishment for husband or relatives if woman dies within 7 years of marriage under unnatural circumstances."}
+{"id":"ipc_326","title":"IPC Section 326 - Voluntarily Causing Grievous Hurt by Dangerous Weapons","text":"Severe punishment for causing grievous hurt with weapons or corrosive substances."}
+{"id":"ipc_307","title":"IPC Section 307 - Attempt to Murder","text":"Punishment for attempt to commit murder; imprisonment may extend to life."}
+{"id":"ipc_363","title":"IPC Section 363 - Kidnapping","text":"Punishment for kidnapping any person from lawful guardianship."}
+{"id":"ipc_364A","title":"IPC Section 364A - Kidnapping for Ransom","text":"Punishment includes death or life imprisonment for kidnapping with intent to demand ransom."}
+{"id":"ipc_375A","title":"IPC Section 375A - Marital Rape (Debate)","text":"Though not fully criminalized, discussions ongoing about recognizing marital rape under Indian law."}
+{"id":"ipc_201","title":"IPC Section 201 - Causing Disappearance of Evidence","text":"Punishment for destroying or causing disappearance of evidence in criminal cases."}
+{"id":"ipc_203","title":"IPC Section 203 - Giving False Information","text":"Punishment for providing false information to screen an offender."}
+{"id":"ipc_211","title":"IPC Section 211 - False Charge of Offence","text":"Punishment for falsely charging someone with an offence with intent to harm."}
+{"id":"ipc_228","title":"IPC Section 228 - Insulting Public Servant in Judicial Proceeding","text":"Punishment for intentionally insulting or interrupting a public servant during judicial proceedings."}
+{"id":"ipc_295A","title":"IPC Section 295A - Deliberate and Malicious Acts Intended to Outrage Religious Feelings","text":"Punishment for deliberate insult of religion or religious beliefs."}
+{"id":"ipc_298","title":"IPC Section 298 - Uttering Words to Hurt Religious Feelings","text":"Punishment for words or actions deliberately intended to wound religious sentiments."}
+{"id":"ipc_300A","title":"Constitution Article 300A - Right to Property","text":"Protects citizens from deprivation of property without legal authority."}
+{"id":"const_14","title":"Constitution Article 14 - Right to Equality","text":"Guarantees equality before law and equal protection of laws within India."}
+{"id":"const_19","title":"Constitution Article 19 - Right to Freedom","text":"Includes freedom of speech, expression, assembly, association, movement, residence, and profession."}
+{"id":"const_21","title":"Constitution Article 21 - Right to Life and Personal Liberty","text":"Ensures no person is deprived of life or personal liberty except by procedure established by law."}
+{"id":"const_32","title":"Constitution Article 32 - Right to Constitutional Remedies","text":"Empowers individuals to move Supreme Court for enforcement of fundamental rights."}
+{"id":"const_226","title":"Constitution Article 226 - Power of High Courts to Issue Writs","text":"Authorizes High Courts to issue writs for enforcement of rights."}
+{"id":"const_370","title":"Constitution Article 370 - Special Status of Jammu & Kashmir","text":"Gave special autonomy to J&K; abrogated in 2019."}
+{"id":"act_1955_citizenship","title":"Citizenship Act, 1955","text":"Governs acquisition, determination, and termination of Indian citizenship."}
+{"id":"act_1860_ipc","title":"Indian Penal Code, 1860","text":"Comprehensive criminal code defining offences and punishments in India."}
+{"id":"act_1973_crpc","title":"Criminal Procedure Code, 1973","text":"Prescribes procedures for investigation, trial, and punishment of offences."}
+{"id":"act_1872_evidence","title":"Indian Evidence Act, 1872","text":"Sets rules relating to evidence admissibility in Indian courts."}
+{"id":"act_1956_hindu_marriage","title":"Hindu Marriage Act, 1955","text":"Governs marriage and divorce among Hindus in India."}
+{"id":"act_1956_hindu_succession","title":"Hindu Succession Act, 1956","text":"Defines inheritance and succession rights under Hindu law."}
+{"id":"act_1936_payment_wages","title":"Payment of Wages Act, 1936","text":"Regulates payment of wages to employees by employers."}
+{"id":"act_1947_industrial_disputes","title":"Industrial Disputes Act, 1947","text":"Provides machinery for resolution of industrial disputes."}
+{"id":"act_1972_wildlife","title":"Wildlife Protection Act, 1972","text":"Protects wild animals, birds, and plants; creates protected areas."}
+{"id":"act_1986_environment","title":"Environment Protection Act, 1986","text":"Provides for protection and improvement of environment."}
+{"id":"act_2000_it","title":"Information Technology Act, 2000","text":"Legal recognition for electronic transactions, cybercrimes, and data protection."}
+{"id":"act_2005_rti","title":"Right to Information Act, 2005","text":"Empowers citizens to request information from public authorities."}
+{"id":"act_2005_dv","title":"Protection of Women from Domestic Violence Act, 2005","text":"Provides protection to women against domestic violence."}
+{"id":"act_2009_rte","title":"Right to Education Act, 2009","text":"Makes education free and compulsory for children aged 6 to 14."}
+{"id":"act_2012_posco","title":"Protection of Children from Sexual Offences Act, 2012","text":"Strengthens legal framework for protection of children from sexual abuse."}
+{"id":"act_1985_narcotics","title":"Narcotic Drugs and Psychotropic Substances Act, 1985","text":"Regulates drugs, narcotics, and their penalties for illegal possession."}
+{"id":"act_1952_epf","title":"Employees' Provident Fund Act, 1952","text":"Provides retirement benefits for employees."}
+{"id":"act_1970_contract_labour","title":"Contract Labour Regulation and Abolition Act, 1970","text":"Regulates employment of contract labour."}
+{"id":"act_1961_income_tax","title":"Income Tax Act, 1961","text":"Governs taxation of incomes in India."}
+{"id":"act_2013_companies","title":"Companies Act, 2013","text":"Regulates company formation, governance, and compliance."}
+{"id":"act_2002_sarfaesi","title":"SARFAESI Act, 2002","text":"Allows banks to recover loans by auctioning secured assets."}
+{"id":"act_1986_consumer","title":"Consumer Protection Act, 1986","text":"Protects consumer interests against unfair trade practices; replaced by 2019 Act."}
+{"id":"act_2019_consumer","title":"Consumer Protection Act, 2019","text":"Strengthens consumer rights, establishes consumer commissions, includes e-commerce."}
+{"id":"act_2002_pmla","title":"Prevention of Money Laundering Act, 2002","text":"Prevents money laundering and confiscates property obtained from it."}
+{"id":"act_2015_juvenile","title":"Juvenile Justice Act, 2015","text":"Deals with juveniles in conflict with law and adoption procedures."}
+{"id":"act_2005_mahila","title":"National Commission for Women Act, 1990","text":"Establishes the National Commission for Women to safeguard women's rights."}
+{"id":"act_2007_unorganized_workers","title":"Unorganized Workers’ Social Security Act, 2008","text":"Provides social security to unorganized workers."}
+{"id":"act_1976_benami","title":"Benami Transactions Prohibition Act, 1988","text":"Prohibits benami transactions where property is held in another person’s name."}
+{"id":"act_2006_fra","title":"Forest Rights Act, 2006","text":"Recognizes forest dwellers’ rights to land and resources."}
+{"id":"act_1995_pwd","title":"Persons with Disabilities Act, 1995","text":"Provides equal opportunities and protection of rights of persons with disabilities."}
+{"id":"act_2016_rpd","title":"Rights of Persons with Disabilities Act, 2016","text":"Strengthens rights and entitlements of persons with disabilities."}
+{"id":"act_1971_misa","title":"Maintenance of Internal Security Act, 1971","text":"Provided preventive detention during Emergency; repealed later."}
+{"id":"act_2002_prevention_terrorism","title":"Prevention of Terrorism Act, 2002","text":"Anti-terrorism legislation, later repealed due to misuse concerns."}
+{"id":"act_2008_ndma","title":"National Disaster Management Act, 2005","text":"Provides for effective management of disasters."}
+{"id":"act_1999_trade_marks","title":"Trade Marks Act, 1999","text":"Provides protection and registration of trade marks."}
+{"id":"act_1999_geographical_indications","title":"Geographical Indications of Goods Act, 1999","text":"Provides protection for geographical indications of goods in India."}
+{"id":"act_1970_patents","title":"Patents Act, 1970","text":"Regulates patents for inventions in India."}
+{"id":"act_1957_copyright","title":"Copyright Act, 1957","text":"Protects literary, artistic, and musical works."}
+{"id":"act_1963_contract","title":"Indian Contract Act, 1872","text":"Defines law relating to contracts in India."}
+{"id":"act_1882_transfer_property","title":"Transfer of Property Act, 1882","text":"Regulates transfer of property by act of parties."}
+{"id":"act_1908_cpc","title":"Code of Civil Procedure, 1908","text":"Regulates civil court procedure in India."}
+{"id":"act_1877_specific_relief","title":"Specific Relief Act, 1963","text":"Provides remedies for persons whose rights are affected."}
+{"id":"act_1881_ni","title":"Negotiable Instruments Act, 1881","text":"Regulates promissory notes, bills of exchange, and cheques."}
+{"id":"act_2005_mgnrega","title":"Mahatma Gandhi National Rural Employment Guarantee Act, 2005","text":"Provides 100 days of guaranteed wage employment in rural India."}
+{"id":"act_1948_factories","title":"Factories Act, 1948","text":"Regulates working conditions in factories."}
+{"id":"act_1951_repr","title":"Representation of the People Act, 1951","text":"Deals with conduct of elections, qualifications, and disqualifications of MPs/MLAs."}
+{"id":"act_1996_arbitration","title":"Arbitration and Conciliation Act, 1996","text":"Provides legal framework for arbitration in India."}
+{"id":"act_2002_competition","title":"Competition Act, 2002","text":"Prevents anti-competitive practices in trade and commerce."}
+{"id":"act_1994_cable","title":"Cable Television Networks Regulation Act, 1995","text":"Regulates operation of cable TV networks in India."}
+{"id":"act_2005_food_safety","title":"Food Safety and Standards Act, 2006","text":"Consolidates food laws to ensure safe food practices."}
+{"id":"act_2013_lokpal","title":"Lokpal and Lokayuktas Act, 2013","text":"Establishes anti-corruption ombudsman for investigation of corruption cases."}
+{"id":"act_1951_essential","title":"Essential Commodities Act, 1955","text":"Controls production, supply, and distribution of essential commodities."}
+{"id":"act_1956_companies","title":"Companies Act, 1956","text":"Earlier law regulating companies, replaced by Companies Act, 2013."}
+{"id":"act_1972_maternity","title":"Maternity Benefit Act, 1961","text":"Regulates maternity leave and benefits for women employees."}
+{"id":"act_1971_gratuity","title":"Payment of Gratuity Act, 1972","text":"Provides gratuity to employees after minimum years of service."}
+{"id":"act_1923_workmen","title":"Workmen's Compensation Act, 1923","text":"Compensation for work-related injury or death of workers."}
+{"id":"act_2017_gst","title":"Goods and Services Tax Act, 2017","text":"Introduces GST as indirect tax replacing multiple other taxes."}
+{"id":"act_2001_sarfaesi","title":"Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002","text":"Empowers banks to recover non-performing assets without court intervention."}
+{"id":"act_2008_law_commission","title":"Law Commission of India Act, 1955","text":"Provides for constitution of Law Commission for legal reforms."}
